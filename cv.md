@@ -41,3 +41,8 @@ Education:
 ---
 Belarusian National Technical University  
 *civil and industrial engineering*
+
+Language:
+---
+English A2  
+German B2
