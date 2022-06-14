@@ -49,3 +49,13 @@
     line-height: 1.5;
     color: #be6a1b;
   }
+
+  .link {
+    text-decoration: none;
+    color: #4a84da;
+    transition: color 0.5s;
+  }
+  
+  .link:hover {
+    color: #543985;
+  }
